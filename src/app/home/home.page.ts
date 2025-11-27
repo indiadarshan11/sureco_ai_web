@@ -83,8 +83,8 @@ export class HomePage implements OnInit {
   // ---- Output audio (playback) ----
   private outCtx?: AudioContext;
   private outPlayhead = 0;
-  agentName: string = "Kajal";
-  customerName: string = "Chandra Gupt Sharma";
+  agentName: string = "Ritu";
+  customerName: string = "Ram";
   dueAmount: number = 15000;
   dueDate: string = "20 तारीख";
 
